@@ -2,7 +2,7 @@
 
 This repository is to show my work for task 3 of the Data Science internship at Oasis Infobyte.
 
-## Task 3 - Car Price Prediction with Machine Learning
+## Task 3: Car Price Prediction with Machine Learning
 
 Task 3 was to develop a predictive model to predict the optimal price of cars in the market, considering variables such as, mileage, etc.
 
